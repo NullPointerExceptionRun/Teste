@@ -16,7 +16,9 @@
 # Iniciando
 ## Teste 1 : 
 ```
-Dado dois arrays de inteiros não vazios, determine se os valores do segundo array estão na mesma ordem no primeiro array.
+Dado dois arrays de inteiros não vazios, determine se os valores do segundo array estão na mesma 
+ordem no primeiro array.
+
 
 public boolean isSubsequent(int[] values, int[] sequence)
 
@@ -48,7 +50,8 @@ Exemplo saída
 ## Teste 3 : 
 
 ```
-Dado um array de strings não vazio, retorne um array de booleans indicando se a string é ou não um palíndromo.
+Dado um array de strings não vazio, retorne um array de booleans indicando se a string é ou não 
+um palíndromo.
 
 public boolean[] verifyPalindromes(String[] values
 

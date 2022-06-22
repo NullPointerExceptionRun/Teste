@@ -64,12 +64,3 @@ Exemplo saída
 
 <p align='center'> <img src='https://github.com/herculesdevbr/Teste/blob/develop/assets/palindromo.png'/></p>
 
-
-<!-- CONTACT -->
-<hr>
-<h2>DEV</h2>
-     
-   
- [<img src="https://avatars.githubusercontent.com/u/86629815?v=4" width="115"><br><sub>@herculesdevbr</sub>](https://github.com/herculesdevbr)   
-
-<hr>
